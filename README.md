@@ -46,17 +46,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=victorcajaibadeoliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcajaibadeoliveira&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=victorcajaibadeoliveira&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcajaibadeoliveira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📌 Projeto em Destaque
 
-<a href="https://github.com/victorcajaibadeoliveira/PROJETO-A3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcajaibadeoliveira&repo=PROJETO-A3&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/victorcajaibadeoliveira/PROJETO-A3">
+    <img src="https://img.shields.io/badge/👕_Tech_Wear-PROJETO--A3-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+> E-commerce de roupas esportivas com busca visual por IA (YOLO + CLIP + KMeans) · HTML · CSS · JavaScript · Python · FastAPI
 
 ---
 
