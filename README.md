@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,50:1E5AA8,100:7FB3F0&height=190&section=header&text=Victor%20Cajaiba&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Qualidade%20de%20Software%20%C2%B7%20Desenvolvimento%20%C2%B7%20Dados&descAlignY=58&descSize=17" width="100%" />
+  <img src="./files/banner.svg" width="100%" alt="Victor Cajaiba" />
 </p>
 
 <!-- Texto digitando -->
@@ -48,5 +48,5 @@ Sou **Analista de Qualidade de Software** e estudante de **Análise e Desenvolvi
 
 <!-- Rodapé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FB3F0,50:1E5AA8,100:0A1931&height=110&section=footer" width="100%" />
+  <img src="./files/footer.svg" width="100%" />
 </p>
