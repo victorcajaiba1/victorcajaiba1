@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E5AA8&center=true&vCenter=true&width=600&lines=Analista+de+Qualidade+de+Software;Python+%C2%B7+Django+%C2%B7+FastAPI;Testes%2C+automa%C3%A7%C3%A3o+e+dados;Estudante+de+ADS+na+USJT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E5AA8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Next.js;Sistemas+internos%2C+integra%C3%A7%C3%B5es+e+dados;Estudante+de+ADS+na+USJT" />
 </p>
 
 <p align="center">
@@ -16,25 +16,37 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Analista de Qualidade de Software** e estudante de **Análise e Desenvolvimento de Sistemas** na **USJT**. Gosto de entender o sistema de ponta a ponta: do código e do banco de dados até o servidor onde ele roda e os dados que ele gera.
+Sou **desenvolvedor full stack** e trabalho com sistemas internos que as áreas de negócio usam no dia a dia: atendimento técnico, monitoramento de equipamentos, resultados financeiros e controle de acesso. Atuo de ponta a ponta, da modelagem e do backend à interface, aos testes e à implantação. Também estudo **Análise e Desenvolvimento de Sistemas** na **USJT**.
 
 <p align="center">
-  <img src="./files/areas.svg" width="100%" alt="Qualidade e desenvolvimento; Dados e infraestrutura" />
+  <img src="./files/areas.svg" width="100%" alt="Autodefesa Brasil: sistemas internos; CortexDev: sistemas sob demanda" />
 </p>
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,js,html,css,selenium,linux,nginx,git,github,vscode,powershell&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,nextjs,react,prisma,postgres,js,docker,nginx,linux,git,githubactions,vscode&perline=8" />
 </p>
 
-## 📌 Projeto em destaque
+## 📌 Projetos em destaque
 
 <p align="center">
   <a href="https://github.com/victorcajaiba1/PROJETO-A3">
     <img src="./files/techwear.svg" width="100%" alt="Tech Wear: e-commerce com busca visual por IA" />
   </a>
 </p>
+
+<p align="center">
+  <img src="./files/lumos.svg" width="100%" alt="Lumos: plataforma acadêmica" />
+</p>
+
+## 🧭 Como eu trabalho
+
+- 🔒 Segurança desde o início: segredos cifrados, 2FA e menor privilégio nas integrações
+- 🧪 Testes automatizados e código simples de manter
+- 🌗 Interfaces legíveis nos temas claro e escuro
+- 📝 Documentar o porquê das decisões
+- 🤖 IA generativa para acelerar, com as decisões e a revisão sempre comigo
 
 ## 📈 Estatísticas
 
